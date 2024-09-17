@@ -20,7 +20,7 @@ function DisplayBox() {
 
 
 button.addEventListener('click', DisplayBox);
-console.log(button);
+
 
 async function getName() {
     try{
